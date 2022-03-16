@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  max-width: 100vw;
 }
 
 .App-logo {
@@ -9,7 +10,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: bulge 3s infinite ease-out;;
   }
 }
 
@@ -28,11 +29,90 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.Room-main {
+  background-color: slategray;
+  display: grid;
+  grid-template-columns: repeat( auto-fill, minmax(10rem, 1fr)); 
+}
+
+.Room-main h2{
+  color: blue;
+}
+.Furniture-item {
+  background-color: #8d9dbd;
+  padding: 7px;
+  margin: 10px 10px 0 10px;
+  border-radius: 12px;
+}
+
+.Furniture-item h2 {
+  color: white;
+  font-size: 3rem;
+  
+  padding: 0px;
+  margin: 0px;
+}
+
+.Room-header{
+  /* min-width: 100vw; */
+  background-color: slateblue;
+  color: mintcream;
+  margin: 0px;
+  padding: 10px;
+
+}
+
+.Item-title {
+  color: slateblue;
+  margin-top: -8px;
+}
+
+.Item-weight {
+  color:slateblue;
+  margin-top: -20px;
+}
+
+.Furinture-item-header {
+  min-height: 72px;
+}
+.Furinture-item-header h3{
+  font-size: calc(10px + 2vmin);
+}
+.Furniture-item-quantity {
+  display: grid;
+  grid-template-columns: 3fr 5fr 3fr;
+  padding: 0px .5rem;
+}
+
+.Furniture-item-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .7rem;
+  margin: 0px .5rem
+  
+}
+
+.Furniture-buttons {
+  height: 4.5rem;
+  border-radius: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 4rem;
+  color: lightcoral;
+  font-weight: 600;
+}
+
+@keyframes bulge {
+  0%{
+      opacity: 1;
+      transform: scale(1, 1);
   }
-  to {
-    transform: rotate(360deg);
+  20% {
+      opacity: 1;
+      transform: scale(1.05, 1.15);
+  }
+  100% {
+      opacity: 1;
+      transform: scale(1, 1);
   }
 }
+

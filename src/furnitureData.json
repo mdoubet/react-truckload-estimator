@@ -1,0 +1,7146 @@
+[
+  {"Room":"Attic",
+    "Items": [
+ {
+   "Qty": "0",
+   "Item": "Bed, Bunk",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Bunk (Single)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Cabin (Flat)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (Double)",
+   "Weight": "406",
+   "CBF": "58" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (King Size)",
+   "Weight": "546",
+   "CBF": "78" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (Single)",
+   "Weight": "273",
+   "CBF": "39" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Double",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Folding",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedside Lamp",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedside Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Antique",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of CDs",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of DVDs/Videos",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Pillows",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Shoes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Sports Equipment",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Tools",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Toys/Games",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box Spring",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "CD Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Lounge",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Occasional",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Overstuffed",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Recliner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Rocker",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Wicker",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chaise Lounge",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest / Trunk",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Small)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Standard)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer System",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV + Stand",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Small",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Standard",
+   "Weight": "56",
+   "CBF": "8" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Futon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp,Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mattress, Single",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable TV",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 20\" or Smaller",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 21\" - 41\"",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Stand (Standard)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Video/DVD/Satellite Player",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ {
+   "Room": "Basement",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "3 Seater Sofa",
+   "Weight": "287",
+   "CBF": "41" 
+ },
+ {
+   "Qty": "0",
+   "Item": "4 Seater Sofa",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Armchair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar 3 x 4 x 2",
+   "Weight": "168",
+   "CBF": "24" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bean Bag",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of CDs",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of DVDs/Videos",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Shoes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Sports Equipment",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Tools",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Toys/Games",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "CD Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Lounge",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Occasional",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Overstuffed",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Recliner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Rocker",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Wicker",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chaise Lounge",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest / Trunk",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Small)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Standard)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cheval Mirror",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Child Table / Chairs",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer System",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Small)",
+   "Weight": "154",
+   "CBF": "22" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Elliptical Machine",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Small)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Bike",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Equipment, (Large)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Equipment, (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV + Stand",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Large",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Small",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Standard",
+   "Weight": "56",
+   "CBF": "8" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Small)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Standard)",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glass Showcase",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Grandfather Clock",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "HiFi Unit",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Large Sideboard",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lounge Suite",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Magazine Rack",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Nest of Tables",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table, (Small)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painiting (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painting (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pedestal",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Baby Grand",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Concert",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Grand",
+   "Weight": "560",
+   "CBF": "80" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Spinet",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Stool / Bench",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Upright",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ping Pong Table",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Large)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pool Table",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Popizon Chair",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable Bar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable TV",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Roll-Top Desk",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Room Divider",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Side Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Bed",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (4 Piece)",
+   "Weight": "1050",
+   "CBF": "150" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (5 Piece)",
+   "Weight": "1295",
+   "CBF": "185" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa, Loveseat",
+   "Weight": "224",
+   "CBF": "32" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Regular)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stereo / Hi-Fi System",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Telephone",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toy Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Treadmill",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tub Armchair, Small",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 20\" or Smaller",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 21\" - 41\"",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 42\" - 50\"",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 51\" and More",
+   "Weight": "385",
+   "CBF": "55" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Stand (Standard)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Utility Cabinet",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Utility Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vacuum Cleaner",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Video/DVD/Satellite Player",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Large)",
+   "Weight": "595",
+   "CBF": "85" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Medium)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ { "Room": "Bedroom",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Bed Canopy",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed Footboard",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Bunk",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Bunk (Single)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Cabin (Flat)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (Double)",
+   "Weight": "406",
+   "CBF": "58" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (King Size)",
+   "Weight": "546",
+   "CBF": "78" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Divan (Single)",
+   "Weight": "273",
+   "CBF": "39" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Double",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Folding",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Headboard (Large)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Headboard (Medium)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Headboard (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, King Size",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, King Size 'Slatted",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Single",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Slatted (Double)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Slatted (Single)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedpost",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedroom Chair",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedside Lamp",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bedside Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Comforters",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Linen/Towels",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Pillows",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Shoes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Toys/Games",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box Spring",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Corner",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cane Chair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Boudoir",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Recliner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Rocker",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Large)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Changing Table",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest / Trunk",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest of Drawers (Small)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Armoire (Standard)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Cedar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Lingerie",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cheval Mirror",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Child Table / Chairs",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Child's Folding Cot",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clothes Valet",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coat Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer System",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cot (Large)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cot (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cradle",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Crib",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dehumidifier",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dresser / Vanity Bench",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dresser, Double",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dresser, Single",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dresser, Triple",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dressing Table",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dressing Table, Double",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dressing Table, Single",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dressing Table, Triple",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Futon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hamper",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hanging Clothes Box",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ironing Board",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Linen Basket",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mattress, Double",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mattress, King Size",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mattress, Single",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable TV",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Shoe Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Bed",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Normal",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tallboy",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardobe, 4 Door",
+   "Weight": "455",
+   "CBF": "65" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe (Flat Packed)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe Box",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Double",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Single",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Triple",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Washstand and Slab",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Water Bed",
+   "Weight": "525",
+   "CBF": "75" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Winthrop Desk",
+   "Weight": "154",
+   "CBF": "22" 
+ }]},
+ 
+ {
+   "Room": "Dining Room",
+   "Items":[
+ {
+   "Qty": "0",
+   "Item": "Antique/Carver Chair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar 3 x 4 x 2",
+   "Weight": "168",
+   "CBF": "24" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Base Buffet",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of China/Glasses",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box, Dish Pack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box, Large",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Corner",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Curio",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Large)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 1 Piece",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 2 Piece",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cocktail Cabinet",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Small)",
+   "Weight": "154",
+   "CBF": "22" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dining Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dining Table (Large)",
+   "Weight": "385",
+   "CBF": "55" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dining Table (Medium)",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dining Table (Small)",
+   "Weight": "252",
+   "CBF": "36" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Display Unit",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Harvest Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "High Chair",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Nest of Tables",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable Bar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Serving Cart",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tea Cart",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Welsh Dresser",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wine Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ }]},
+ {
+   "Room": "Family Room",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "3 Seater Sofa",
+   "Weight": "287",
+   "CBF": "41" 
+ },
+ {
+   "Qty": "0",
+   "Item": "4 Seater Sofa",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-10 gallon",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-20 gallon",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-55 gallon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Armchair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar 3 x 4 x 2",
+   "Weight": "168",
+   "CBF": "24" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bean Bag",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of CDs",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of DVDs/Videos",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Buffet Base (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Buffet Base (Small)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bureau",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Curio",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "CD Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ceiling Fitting",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Lounge",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Occasional",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Overstuffed",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Recliner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Rocker",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Wicker",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chaise Lounge",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Large)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 1 Piece",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 2 Piece",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coat Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cocktail Cabinet",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dehumidifier",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Small)",
+   "Weight": "154",
+   "CBF": "22" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Small)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fireplace Equipment",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV + Stand",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Large",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Small",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Standard",
+   "Weight": "56",
+   "CBF": "8" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Folding Bed",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Futon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glass Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glass Showcase",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Grandfather Clock",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "HiFi Unit",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Large Sideboard",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lounge Suite",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Magazine Rack",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Nest of Tables",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table, (Small)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Oriental Screen",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Overmantel",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painiting (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painting (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pedestal",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Baby Grand",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Concert",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Grand",
+   "Weight": "560",
+   "CBF": "80" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Spinet",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Stool / Bench",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Upright",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Popizon Chair",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable Bar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Roll-Top Desk",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Room Divider",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Side Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Bed",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (4 Piece)",
+   "Weight": "1050",
+   "CBF": "150" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (5 Piece)",
+   "Weight": "1295",
+   "CBF": "185" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa, Loveseat",
+   "Weight": "224",
+   "CBF": "32" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Regular)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stereo / Hi-Fi System",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Telephone",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toy Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tub Armchair, Small",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 20\" or Smaller",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 21\" - 41\"",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 42\" - 50\"",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 51\" and More",
+   "Weight": "385",
+   "CBF": "55" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Stand (Standard)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Umbrella Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Video/DVD/Satellite Player",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Large)",
+   "Weight": "595",
+   "CBF": "85" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Medium)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Welsh Dresser",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ {
+   "Room": "Garage",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Bicycle",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bike",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bowling Ball/Bag",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Sports Equipment",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Tools",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Edger",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Elliptical Machine",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Bike",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Equipment, (Large)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Equipment, (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Extension Ladder",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Small)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Standard)",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garbage Can (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garbage Can (Small)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Tools",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Golf Clubs",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hose & Reel",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kid's Jeep",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ladder 10'",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ladder 7'",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Mower",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Metal Chair",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Large)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bin (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Shoe Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Snowblower",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Snowmobile",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Step Ladder",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Box (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Box (Medium)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Box (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Gang Box",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toy Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Treadmill",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Utility Cabinet",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Utility Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vacuum Cleaner",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wheelbarrow",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Workbench",
+   "Weight": "210",
+   "CBF": "30" 
+ }]},
+ {
+   "Room": "Hallway",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Coats",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Shoes / Boots",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bureau",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Large)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coat Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Grandfather Clock",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hall Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Safe (Make, Size & Weight)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Shoe Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Umbrella Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ {
+   "Room": "Kitchen",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Baby\"s High Chair",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of China",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Cleaning Products",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Foodstuffs",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Glasses",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Miscellaneous",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Pots & Pans",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Drying Rack",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Maker",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cooker",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dishwasher",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Display Unit",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Food Processor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Freezer, Chest (Large)",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Freezer, Chest (Small)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Freezer, Chest (Standard)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge, American Style",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Small)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fridge/Freezer (Standard)",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garbage Can",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "High Chair",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Serving Cart",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Cabinet",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Table (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Table (Medium)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Table (Small)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Microwave",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stair Carpet",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Store Cupboard",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stove",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toaster Oven",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trolley",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tumble Dryer",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vacuum Cleaner",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Washing Machine",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Washer and Dryer",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Water Cooler",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Welsh Dresser",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Range, 20\" Wide",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Range, 30\" Wide",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Range, 36\" Wide",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trash Compactor",
+   "Weight": "105",
+   "CBF": "15" 
+ }]},
+ {
+   "Room": "Laundry",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Basket",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of China/Glasses",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Linen/Towels",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Broom",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bucket",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cart",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clothes Dryer",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clothes Dryer Rack",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clothes Hamper",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dryer, Electric",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dryer, Gas",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ironing Board",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vacuum Cleaner",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe (Flat Packed)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe Box",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Double",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Single",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wardrobe, Triple",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Washer and Dryer",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Washing Machine",
+   "Weight": "175",
+   "CBF": "25" 
+ }]},
+ {
+   "Room": "Living Room",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "3 Seater Sofa",
+   "Weight": "287",
+   "CBF": "41" 
+ },
+ {
+   "Qty": "0",
+   "Item": "4 Seater Sofa",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-10 gallon",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-20 gallon",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-55 gallon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Armchair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar 3 x 4 x 2",
+   "Weight": "168",
+   "CBF": "24" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bean Bag",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of CDs",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of DVDs/Videos",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Buffet Base (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Buffet Base (Small)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bureau",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Curio",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "CD Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ceiling Fitting",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Lounge",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Occasional",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Overstuffed",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Recliner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Rocker",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Wicker",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chaise Lounge",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Large)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chandelier (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 1 Piece",
+   "Weight": "315",
+   "CBF": "45" 
+ },
+ {
+   "Qty": "0",
+   "Item": "China Cabinet - 2 Piece",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coat Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cocktail Cabinet",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dehumidifier",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk (Small)",
+   "Weight": "154",
+   "CBF": "22" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Large)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Entertainment Ctr. (Small)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fireplace Equipment",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV + Stand",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Large",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Small",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Flat Screen TV- Standard",
+   "Weight": "56",
+   "CBF": "8" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Folding Bed",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Futon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glass Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glass Showcase",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Grandfather Clock",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "HiFi Unit",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Large Sideboard",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lounge Suite",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Magazine Rack",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Nest of Tables",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table (Large)",
+   "Weight": "928",
+   "CBF": "133" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Occasional Table, (Small)",
+   "Weight": "742",
+   "CBF": "106" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Oriental Screen",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Overmantel",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painiting (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Painting (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pedestal",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Baby Grand",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Concert",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Grand",
+   "Weight": "560",
+   "CBF": "80" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Spinet",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Stool / Bench",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Piano, Upright",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Popizon Chair",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable Bar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Roll-Top Desk",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Room Divider",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Side Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Bed",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (4 Piece)",
+   "Weight": "1050",
+   "CBF": "150" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Section (5 Piece)",
+   "Weight": "1295",
+   "CBF": "185" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa Table",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa, Loveseat",
+   "Weight": "224",
+   "CBF": "32" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Regular)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stereo / Hi-Fi System",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Telephone",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toy Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tub Armchair, Small",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 20\" or Smaller",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 21\" - 41\"",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 42\" - 50\"",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV - 51\" and More",
+   "Weight": "385",
+   "CBF": "55" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Stand (Standard)",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Umbrella Stand",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Video/DVD/Satellite Player",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Large)",
+   "Weight": "595",
+   "CBF": "85" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Medium)",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Unit (Small)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Welsh Dresser",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ {
+   "Room": "Miscellaneous",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Aerial/Dish",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Air Conditioner",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium Stand (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-10 gallon",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-20 gallon",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Aquarium-55 gallon",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Automobile",
+   "Weight": "2800",
+   "CBF": "400" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar 3 x 4 x 2",
+   "Weight": "168",
+   "CBF": "24" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bar Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Barbecue",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bike (Adult)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bike (Child)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bird Bath",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bird Cage",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Tools",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Large)",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Medium)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Corner",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Curio",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Metal",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Camper Shell",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Camper Trailer",
+   "Weight": "4900",
+   "CBF": "700" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Camping Gear",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Card Table",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Carpet (Area Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Case of Wine",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Club",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Folding",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Metal",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Plastic",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Porch",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chaise Lounge",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest, Tools",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clothes Basket",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cocktail Cabinet",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cooler",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cot, Folding",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Credenza",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Dog House",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Drop-leaf Table",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Edger",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Elliptical Machine",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Exercise Bike",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Extension Ladder",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Farm Equipment",
+   "Weight": "2450",
+   "CBF": "350" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Footlocker",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garbage Can",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Hose/Tool",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Glider-Settee",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Golf Bag",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Guitar",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Gun Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hand Sewing Machine",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Heater/Radiator",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hutch",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Instep Stroller",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ironing Board",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Kitchen Island",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ladder",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ladder, Step",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Edger",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Mower",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Mower, Power",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Mower, Riding",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Moped",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Musical Instrument",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pedestal",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picnic Bench",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picnic Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plane/Ultralight",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plant Stand",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bag (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plastic Bag (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Playpen, Folding",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Playpen, Non-Folding",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Portable Bar",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pottery",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Power Tool",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Power Tool Hand",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Power Tool Stand",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pushchair",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rocker Swing",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Saddle (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Saddle (Standard)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Safe (Make, Size & Weight)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sawhorse",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Screen/Folding",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sculpture",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Server",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Settee",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sewing Machine",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sewing Machine, Console",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Shelving",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Large)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sideboard (Small)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Snowblower",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sofa, Hideabed",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Softstrider",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Softstrider Ex",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Softstrider Pro",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Spa/Hot Tub",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Speakers (Regular)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Spreader",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stand (Medium)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stand (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stereo Console",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table Saw",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Small",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Utility",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tackle Box",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tire",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Tool Shed",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toolbox",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Toy Chest",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trailer",
+   "Weight": "700",
+   "CBF": "100" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trailer > 14'",
+   "Weight": "805",
+   "CBF": "115" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trampoline",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trash Can",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Treadle Sewing Machine",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Treadmill",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trolley",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Stand",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "TV Tray Set",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Umbrella",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Utility Cabinet",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vacuum Cleaner",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Van/Truck/SUV",
+   "Weight": "3850",
+   "CBF": "550" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Vanity Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wading Pool",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wagon",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wall Shelves",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Waste Basket",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Weight Bench",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wheelbarrow",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Workbench",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Workbench (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Workbench (Standard)",
+   "Weight": "210",
+   "CBF": "30" 
+ }]},
+ {
+   "Room": "Nursery",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Baby Bath",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Baby Carriage",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Baby Walker",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Baby's High Chair",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bassinet",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bed, Baby’s",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bouncer Seat",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Clothes",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Linen/Towels",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Toys",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Car Seat",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Baby’s",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Changing Table",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chest",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cradle",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Crib",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cupboard",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Diaper Trash Can",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pack 'n Play/Playpen",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stroller",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Baby's",
+   "Weight": "35",
+   "CBF": "5" 
+ }]},
+ {
+   "Room": "Office / Study",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Black Board",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookcase (per section)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bookshelf Small",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Books",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Files",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Records",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bureau",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Cabinet, Corner",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "CD Rack",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair Mat",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Folding",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Office",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Clock",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Desk",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Screen",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer System",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Computer Table/Desk",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Copier, Table Top",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Credenza",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk",
+   "Weight": "154",
+   "CBF": "22" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Chair",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Double",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Executive",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Hutch",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Return",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Desk, Single",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Ceiling",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fax Machine",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "File Cab (2 Draw)",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "File Cab (3 Draw)",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "File Cab (4 Draw)",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "File Cab (5 Draw)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garbage Can",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Keyboard (Large)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Keyboard (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Mirror (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Notice Board",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Office Chair",
+   "Weight": "126",
+   "CBF": "18" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pedestal",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Photocopiers",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Large)",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Picture (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Printer (Large)",
+   "Weight": "56",
+   "CBF": "8" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Printer (Standard)",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Projector",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Safe (Large)",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Safe (Small)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Statue (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Statue (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Suitcase",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Conference",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Boardroom",
+   "Weight": "420",
+   "CBF": "60" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Table, Normal",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Telephone",
+   "Weight": "7",
+   "CBF": "1" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trunk",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Typewriter",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "UPS",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Window A.C",
+   "Weight": "28",
+   "CBF": "4" 
+ }]},
+ {
+   "Room": "Patio / Garden",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Barbecue",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Barbecue Grill",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Extra Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Large)",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Medium)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box (Small)",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Garden Tools",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Toys",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Garden",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Lounge",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Patio",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Chair, Stackable",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Edger",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Roller",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Shed Dismantled",
+   "Weight": "350",
+   "CBF": "50" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden Table",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Garden/Patio Heater",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Hose & Reel",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lawn Mower",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Leaf Sweeper",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Parasol",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Patio Set",
+   "Weight": "245",
+   "CBF": "35" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Patio Set (5 Piece)",
+   "Weight": "490",
+   "CBF": "70" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Patio Table",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Patio Umbrella",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plant Artificial (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plant Artificial (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Retractable Sunsetter",
+   "Weight": "175",
+   "CBF": "25" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sand Box",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Step Ladder",
+   "Weight": "49",
+   "CBF": "7" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sun Lounger",
+   "Weight": "140",
+   "CBF": "20" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Trampoline",
+   "Weight": "280",
+   "CBF": "40" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Wheelbarrow",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Workbench",
+   "Weight": "210",
+   "CBF": "30"  
+ }]},
+ {
+   "Room": "Sunroom",
+   "Items": [
+ {
+   "Qty": "0",
+   "Item": "Sofa/Loveseat",
+   "Weight": "224",
+   "CBF": "32" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Armchair",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Bench",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Blinds/Shades (per window)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Box of Ornaments",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Coffee Table (Small)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sunroom Chair",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sunroom Sofa",
+   "Weight": "210",
+   "CBF": "30" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Sunroom Table",
+   "Weight": "84",
+   "CBF": "12" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Curtains and Rods",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Pedestal",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Fan, Table",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Floor",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Stand",
+   "Weight": "42",
+   "CBF": "6" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Lamp, Table",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Magazine Rack",
+   "Weight": "14",
+   "CBF": "2" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Ottoman/Footstool (Small)",
+   "Weight": "35",
+   "CBF": "5" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Plants (Large)",
+   "Weight": "105",
+   "CBF": "15" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Pot Plants",
+   "Weight": "28",
+   "CBF": "4" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Large)",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Rug/Pad (Small)",
+   "Weight": "21",
+   "CBF": "3" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Side Table",
+   "Weight": "70",
+   "CBF": "10" 
+ },
+ {
+   "Qty": "0",
+   "Item": "Stool",
+   "Weight": "35",
+   "CBF": "5" 
+ } 
+]
+}
+]
