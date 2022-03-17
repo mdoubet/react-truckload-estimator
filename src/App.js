@@ -55,6 +55,33 @@ function App() {
     console.log("after adding", truckload);
   }
 
+  const handleSubtractItems = (room, item, decr) => {
+    const idLookup = `${room}-${item.Item}`;
+    const itemUpdating = truckload.findIndex(item => item.id === idLookup);
+
+    console.log(itemUpdating, room, item.Item);
+
+    if (itemUpdating !== -1){
+      
+    
+      if (truckload[itemUpdating].qty - decr < 1) {
+        console.log(`removing ${truckload[itemUpdating]}`);
+        setTruckload(truckload.filter(itm => itm.id !== idLookup));
+      }
+      else {
+        let newTruckload = truckload.slice();
+        newTruckload[itemUpdating].qty -= decr;
+        newTruckload[itemUpdating].totalWeight -= decr * item.Weight;
+        newTruckload[itemUpdating].totalCBF -= decr * item.CBF;
+        setTruckload(newTruckload);
+      
+        console.log("after subtracting", truckload);
+      }
+    }
+
+
+  }
+
   return (
     <div className="App">
       <header className="App-header">
@@ -76,7 +103,12 @@ function App() {
         <div key={`${room.Room}-header`}>
           <div className='Room-header'>
             <h2>
-              {room.Room} {truckload.filter((item)=> item.room === room.Room).reduce((tot, cur) => tot += cur.totalWeight, 0)}            
+              {room.Room} {(truckload.filter((item)=> item.room === room.Room).reduce((tot, cur) => tot += cur.totalWeight, 0)/1000).toFixed(2)} K lbs 
+              {` / ${truckload.filter((item)=> item.room === room.Room).reduce((tot, cur) => tot += cur.totalCBF, 0)}`} ft<sup>3</sup>
+              <br/>
+              Total {truckload.reduce((tot, cur) => tot += cur.totalWeight / 1000, 0).toFixed(1)} K / {truckload.reduce((tot, cur) => tot += cur.totalCBF, 0)} ft<sup>3</sup>
+
+                        
             </h2>
             </div>
             <div className='Room-main'>
@@ -96,8 +128,8 @@ function App() {
                   </div>
 
                   <div className='Furniture-item-buttons'>
-                    <button className='Furniture-buttons' onClick={()=> handleAddItems(room.Room, item, 1)}>-</button>
-                    <button className='Furniture-buttons' onClick={()=> alert(item.Item)}>+</button>
+                    <button className='Furniture-buttons' onClick={()=> handleSubtractItems(room.Room, item, 1)}>-</button>
+                    <button className='Furniture-buttons' onClick={()=> handleAddItems(room.Room, item, 1)}>+</button>
                   </div>
                   
 
@@ -111,6 +143,10 @@ function App() {
       
     </div>
   );
+
+
+
+  
 }
 
 export default App;
