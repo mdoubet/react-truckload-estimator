@@ -1,13 +1,17 @@
-import logo from './truck.svg';
-import './App.css';
+
+import './styles/App.css';
 import furnitureData from './furnitureData.json';
 import { useState } from 'react';
+
+import Head from './components/Head';
 
 console.log(furnitureData);
 
 
 function App() {
   const [truckload, setTruckload] = useState([]);
+  const [truckWeight, setTruckWeight] = useState(0);
+  const [truckCBF, setTruckCBF] = useState(0);
 
   const getQty = (idLookup) => {
     const curItem = truckload.findIndex(item => item.id === idLookup);
@@ -24,6 +28,18 @@ function App() {
       );
     }
   }
+
+  const updateTotals = () => {
+    const {newWeight, newCBF} = truckload.reduce(({ newWeight, newCBF}, cur) => ({
+      newWeight: newWeight + cur.totalWeight,
+      newCBF: newCBF + cur.totalCBF
+    }), {newWeight:0, newCBF:0});
+    console.log("new weight", newWeight, newCBF);
+    setTruckWeight(newWeight);
+    setTruckCBF(newCBF);
+    
+  }
+
   
   const handleAddItems = (room,item,incr) => {
     const idLookup = `${room}-${item.Item}`;
@@ -50,9 +66,10 @@ function App() {
       newTruckload[itemUpdating].qty += incr;
       newTruckload[itemUpdating].totalWeight += incr * item.Weight;
       newTruckload[itemUpdating].totalCBF += incr * item.CBF;
-      setTruckload(newTruckload);
+      setTruckload(newTruckload, updateTotals);
     }
-    console.log("after adding", truckload);
+ 
+
   }
 
   const handleSubtractItems = (room, item, decr) => {
@@ -77,27 +94,17 @@ function App() {
       
         console.log("after subtracting", truckload);
       }
+
+      
     }
 
+    updateTotals();
 
   }
 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         Moving Truck Size Estimator
-        </p>
-        <a
-          className="App-link"
-          href="http://www.movingconnections.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          powered by Moving Connections
-        </a>
-      </header>
+     <Head weight={truckWeight} cbf={truckCBF}/>
       
         {furnitureData.map((room)=>
         <div key={`${room.Room}-header`}>

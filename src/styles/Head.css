@@ -1,0 +1,46 @@
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 12vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+  color: white;
+  gap: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: bulge 3s infinite ease-out;;
+  }
+}
+
+
+@keyframes bulge {
+  0%{
+      opacity: 1;
+      transform: scale(1, 1);
+  }
+  20% {
+      opacity: 1;
+      transform: scale(1.05, 1.15);
+  }
+  100% {
+      opacity: 1;
+      transform: scale(1, 1);
+  }
+}
+
+.Head-totals{
+  border-radius: 50%;
+  padding: 1.1em;
+  background-color: blue;
+  border-color:#282c34;
+  border-width: 24px;
+}
